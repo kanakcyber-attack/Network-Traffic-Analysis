@@ -1,0 +1,39 @@
+Program-1 : Write a program to print Hello World.
+Program-2 : Write a program to add two numbers.------->(Optional)
+Program-3 : Write a program to calculate area of rectangle.----------->(Optional)
+Program-4 : Write a program to calculate simple Interest.----->(Optional)
+Program-5 : Write a program to check given number even or odd.------>(Optional)
+Program-6 : Write a program to find largest among three numbers.(To know working of nested statements)
+Program-7 : Write a program to calculate sum 1 to n.--------->(Optional)
+Program-8 : Write a program to find factorial of number----------> (Optional).
+Program-9 : Write a program to find Reverse of a number.
+Program-10: Make simple calculator (using switch)----------> (Optional).
+Program-11: Make simple calculator (using enhance_switch)
+program-12: Program to Illustrate object and classes(Calculate Volume with respect to different object)
+program-13: Program to Illustrate Working of Constructor(Enhance program 12).
+Program-14: Program to Illustrate Method Overloading.
+Program-15: Program to Illustrate Constructor Overloading. 
+Program-16: Make simple Stack.(without user input) --------->  (Optional)
+Program-17: Make fully function Stack.(every input should taken from user)
+program-18: Make fully function Queue.(every input should taken from user)<---new added program
+Program-19: Program to Illustrate Inheritance.
+Program-20: Program to Illustrate Working of Construtor in Inheritance.(use this and super)
+Program-21: Program to Illustrate Overriding.
+Program-22: Program to Illustrate Dynamic Method Dispatching.
+program-23: program to Illustare Exception Handling (try catch, throw, throws)
+program-24: Create a customized exception and also make use of all the 5 exception keywords.
+program-25: Write a java package to show dynamic polymorphism and interfaces.
+program-26: Convert the content of a given file into the upper case content of the same file.
+program-27: Write a java program to show multithreaded producer and consumer application.
+program-28: Develop a scientific calculator using swings.
+program-29: Create an editor like MS-word using swings.
+program-30: Create a servlet that uses Cookies to store the number of times a user has visited your servlet.
+program-31: Create a simple java bean having bound and constrained properties.
+
+
+Note: Optional - 8 programs (Students can skip)
+      Compulsory- 23 programs 
+
+
+
+
